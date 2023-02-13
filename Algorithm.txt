@@ -1,0 +1,23 @@
+                                                         FIBONACCIS SEQUENCE
+ 
+  *Start
+  *Input 2 variables 0 and 1
+  *Name a variable "n"
+  *n=number of terms
+  *Calc. the next term by adding the last two variables i.e 1+0
+  *Repeat step 5 till "n" terms have been generated
+  *Stop
+
+
+
+
+                                                          BUBBLE SORT
+  
+  *Start
+  *Input any number of variables
+  *Name a variable n
+   n= length of numbers
+  *Compare each pair of elements in the variables
+  *If the element on the left is greater than the element on the right,swap the two elements
+  * Repeat step 4 and 5 until the variables are sorted in ascending order
+  * Stop
